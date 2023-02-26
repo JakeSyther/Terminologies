@@ -1,0 +1,20 @@
+In game development terminology, SDK stands for "Software Development Kit". 
+An SDK is a collection of software tools and resources that game developers use to create games for a particular platform or system.
+
+An SDK typically includes things like programming libraries, debugging tools, sample code, documentation, and more. 
+These resources are designed to make it easier for game developers to create games that run on a specific platform or system,
+such as a particular console or mobile operating system.
+
+For example, a game developer who wants to create a game for the Xbox console would use the Xbox SDK,
+which provides all of the tools and resources needed to create a game that runs on that platform.
+
+SDKs can be created by the platform or system owner themselves, or they can be created by third-party companies.
+For example, Unity is a popular game development platform that provides an SDK that game developers can use to create games for a wide range of platforms,
+including mobile, console, and PC.
+
+Using an SDK can make the game development process much easier and more efficient,
+as it provides developers with all of the tools and resources they need in one convenient package. 
+This allows them to focus on creating the unique aspects of their game, rather than spending time building the underlying systems and functionality from scratch.
+
+Overall, SDKs are a critical component of game development, as they provide developers with the resources 
+they need to create high-quality games for a variety of platforms and systems.
