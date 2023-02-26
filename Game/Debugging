@@ -1,0 +1,15 @@
+In game development terminology, debugging refers to the process of finding and fixing errors, bugs, and other issues in a game or game engine. 
+Debugging is an essential part of game development, as it helps ensure that the game functions correctly and provides a high-quality experience for players.
+
+Game developers use a variety of tools and techniques to debug their games.
+One common method is to use a debugger, which is a software tool that allows developers to track the execution of their code and inspect the values of variables
+and other data in real-time. This can help developers identify errors and bugs as they occur, making it easier to pinpoint and fix the underlying issue.
+
+Another common debugging technique is to use logging, which involves adding code to the game that writes information about the game's behavior to a log file.
+This can include things like error messages, performance metrics, and other data that can help developers identify and diagnose issues.
+
+Game developers may also use profiling tools to analyze the performance of their game, identifying areas where the game is consuming too many resources 
+or where there are bottlenecks that are impacting performance.
+
+Debugging can be a time-consuming and challenging process, but it is an essential part of game development. 
+By finding and fixing errors and bugs, developers can ensure that their games are stable, performant, and provide a high-quality experience for players.
